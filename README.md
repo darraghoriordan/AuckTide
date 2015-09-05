@@ -1,4 +1,4 @@
-# PebbleFace
+# AuckTide
 
 This app just lets the notifications associated with it appear in the timeline
 on the pabble watch. It show tides in auckland, new zealand on your timeline.
